@@ -9,6 +9,7 @@
     "pip-log.txt": "explorerExcludedFiles",
     "pip-delete-this-directory.txt": "explorerExcludedFiles",
     ".python-version": "explorerExcludedFiles",
+    ".vscode": "explorerExcludedFiles",
     ".env": "explorerExcludedFiles",
     ".venv": "explorerExcludedFiles",
     "env/": "explorerExcludedFiles",
